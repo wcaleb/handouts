@@ -1,0 +1,73 @@
+% The Nineteenth-Century U. S. Field
+% Prof. Caleb McDaniel
+% August 6, 2012
+
+These guidelines are intended for doctoral students who plan to be examined on the Nineteenth-Century United States, either as their major field or as a secondary one. They are aimed particularly at those who specialize in social, cultural, and/or intellectual history, but other specializations are allowed. Some additional requirements may be appropriate for those who plan to major in this field and complete a dissertation under my primary direction. But all students completing a comprehensive examination with me should follow, at a minimum, the course outlined here.
+
+Coursework
+----------
+
+You must take HIST 588 (Readings in Nineteenth-Century America) and at least one other graduate seminar with me. Currently the other main course I offer is HIST 587 (a research seminar on Methods in U. S. Social/Cultural History). I usually offer these seminars in alternate years. I will consider requests for an additional one-on-one Directed Readings course on a case-by-case basis, but the field may and usually will be completed without one.
+
+General Themes
+--------------
+
+Each student will of course bring different interests to this field, and the exam will reflect those interests above all. But there are several overarching themes that you should think about throughout your reading on this field, as they will likely come up in classes, in one-on-one meetings, and on exams. Both have to do with the boundaries of the field of U. S. history in this period.
+
+* _Periodization._ Does it make sense to write, research, and teach about the nineteenth century as a discrete unit of time, particularly for American historians? Both in their professional organizations and scholarly work, American historians often treat the Civil War as a fulcrum on which the century and the nation turned. What are the reasons for this, and what reasons might be given for thinking otherwise? What changes and continuities across the nineteenth century make this field "thinkable," and what dates or events might meaningfully bound the period?
+* _Geography._ Although this field concerns "the United States" in the nineteenth century, the territorial boundaries of the nation---the very definition of the United States---changed dramatically during this period. What accounted for these changes, and what role did territorial changes play in explaining other transformations in American life? Are these geographical changes best described as part of a master program of "expansion" and "empire" or as unforeseen consequences contingent on events beyond the nation's control? Recent works in transnational history have also urged historians of the period to look beyond the nation's territorial boundaries and explore the place of the nineteenth-century United States in the world at large. How did events outside the nation's geographical borders affect events within or across them, and vice versa?
+* _Teaching._ Although much of the reading you do will be focused on scholarly debates about matters large and small, the field should also prepare you to teach about the nineteenth century. How will the readings that you do shape the way you teach American history (even about other periods)? Keep in mind here that "teaching" can be broadly defined, and is not confined to education that takes place in the classroom; this question would apply equally well if you plan to work in public history or in any field where you will have to explain or interpret the nineteenth century to audiences who are not as familiar with it as specialists in the field.
+
+__Tip:__ When lost in a thicket of books, it can be difficult to pull back and think about these big, forest-sized themes. One thing that can help is to continually ask yourself: *How would I organize an undergraduate course or a museum exhibit on the nineteenth-century United States?* Your answer to that question will likely change as you read new books and encounter new topics, but periodically jotting notes to yourself about this will force you to wrestle with all three of the big themes listed above, particularly by forcing you to be selective about what you would include or emphasize in the confines of a course or an exhibit. Think not only about *what* topics you would select, but also how you would organize them and justify your choices.
+
+Additional Objectives
+---------------------
+
+Individual seminars will have expectations and objectives particular to those courses. But there are several general objectives you should aim towards as you prepare for your field exam including:
+
+* competence in the writing of concise, yet analytical, summaries of books, using academic book reviews as your rough model
+* familiarity with the use of digital research tools, including both bibliographic databases and the rapidly multiplying databases of digitized nineteenth-century sources---as well as familiarity with both the promise and the perils of these sorts of tools
+* the ability to identify historiographical relationships between books, including areas of broad agreement or disagreement among scholars, as well as to formulate new questions for research that still need to be addressed
+
+Assignments
+-----------
+
+For the most part, the assignments given here are *additional to* the requirements for individual courses that you may take with me. There may be students in those courses who are not completing a field exam; to prepare for the field exam requires additional work that will not be spelled out on course syllabi. However, in some cases, meeting a requirement for a course may satisfy or overlap with part of the requirements outlined below. I've tried to note when this is the case, but see me if you have any questions.
+
+### Readings
+
+For your examination, you will be responsible for mastery of a reading list consisting of the following:
+
+* Every book or article you read as part of the requirements for HIST 588.
+* An additional 12 to 15 books that you will select from the "individual reading" lists on the HIST 588 syllabus, distributed across at least *five* of the thematic lists on the syllabus (e.g., class, race, empire, etc.)
+* Approximately 15 to 20 books that you will select related to a particular sub-area of concentration important to your eventual dissertation work, which could be defined topically (i.e., immigration history) or methodologically (i.e., intellectual history).
+
+Past syllabi from HIST 588 are on my website at <http://wcm1.web.rice.edu/teaching.html>. You should use the syllabus from the semester when you took the course to satisfy the above requirements.
+
+You may also add to your reading list any books you have read for other fields that you believe would be relevant to this one. While I will not focus specifically on asking about these works in the exam, they may help both of us to see your broad patterns of interest and areas of emerging expertise.
+
+It is probable that you will read a number of books and articles in the course of research for a seminar paper with me, and these books may well appear on your reading list as part of your special "area of concentration." If, however, the reading for your seminar paper deals with a specific subject you do not plan to pursue further, or if it had to be (for the purposes of the paper) narrowly focused, I may recommend that you still identify a separate area of concentration for your list.
+
+Rather than compiling this list all at once, you should maintain and update the list throughout your work on the field. This could be as simple as keeping a webpage or Google document with a running list of your readings, but it may be more efficient to use bibliographic software like [Zotero](http://www.zotero.org) to keep track of citations, since this would allow you to easily retrieve the books you've read or the notes you've taken. Ask other graduate students about how they organized their notes and reading lists, or consult online guides like Cameron Blevins's posts on "Surviving Quals."^[See Part I at <http://historying.org/2012/01/11/surviving-quals-part-i-laying-the-groundwork/> and Part II at <http://historying.org/2012/01/23/surviving-quals-part-ii-the-grind/>.]
+
+### Blog Posts
+
+Once you decide to pursue this field, you should create a professional blog or website (if you don't have one already). It is easy to do so at <http://blogs.rice.edu>. On this blog you should publish a short post (no more than about 500 words) for each of the books on your reading list as you complete them. This will help you to prepare for the exam; give you a record of your thoughts; and help you to practice summarizing and connecting books together. It will also help me to keep track of your progress on the field so that I can make suggestions about readings or questions to consider.
+
+You are not required to make these blog posts public; it is possible to set the privacy controls so that only you and I will be able to see them. However, I would encourage you to consider keeping some public record of your work, both to help you begin developing a professional identity and to force yourself to move from the fragmentary notes you will keep for yourself towards writing that is meant for public consumption.
+
+### Meetings
+
+Once you have decided to complete this field, plan on setting up a meeting with me at the beginning and the end of each semester in which you are working on the field. At these informal "briefings" and "debriefings" we can confer about (and eventually finalize) your reading list; plan or look back on your semester; check in on your progress; identify research interests; determine when you might be ready to take the exam; and discuss the sorts of questions that the exam could cover.
+
+For a few students it may make sense to have additional one-on-one meetings as part of a Directed Readings course in your second or third year, just prior to taking the written exam. I will consider requests for such a course only on a case-by-case basis, but whether you take a directed readings course or not, you should still plan to have two sit-down meetings with me each semester.
+
+Format of Exam
+--------------
+
+In most cases the written exam will be an open-book and open-note historiographical essay that you will have 24 hours to complete. You will be provided with at least two prompts and allowed to choose one as the basis of your essay. 
+
+Acknowledgements
+----------------
+
+Thanks to Rachel Herrmann, Luke Dietrich, Lynn Price, and Erin N. Bush for feedback on an earlier draft of these guidelines. Please feel free to email me your own suggestions and questions, too. 
