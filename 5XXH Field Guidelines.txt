@@ -202,9 +202,10 @@ the basis of your essay.
 Acknowledgements
 ----------------
 
-Thanks to Rachel Herrmann, Luke Dietrich, Lynn Price, and Erin N. Bush
-for feedback on an earlier draft of these guidelines. Please feel free
-to email me your own suggestions and questions, too.
+Thanks to Rachel Herrmann (@Raherrmann), Luke Dietrich (@Luke_Dietrich), Lynn
+Price (@Lprice3), and Erin N. Bush (@HistoriErin) for feedback on an earlier
+draft of these guidelines. Please feel free to email me your own suggestions
+and questions, too.
 
 [^1]: See Part I at
     <http://historying.org/2012/01/11/surviving-quals-part-i-laying-the-groundwork/>
