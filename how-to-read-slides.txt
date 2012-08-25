@@ -1,0 +1,75 @@
+% How to Read for College
+% Caleb McDaniel
+% August 26, 2012
+
+<!--This is a markdown slideshow that I made for a presentation at Duncan College on reading for college courses. It can be converted to a variety of slide formats using Pandoc. The slides are licensed under a Creative Commons CC-BY license. You can modify it, but please share and share alike, and provide attribution to this original.-->
+
+## General Tips
+
+* Do your reading!
+* Think about your reading!
+	+ "Read not to contradict and confute; nor to believe and take for granted; nor to find talk and discourse; but to weigh and consider." [*Francis Bacon*](http://www.bartleby.com/3/1/50.html)
+	+ Almost all books have pros; almost all books have cons.
+* Time yourself!
+	+ Start early enough to know how long a book will take.
+* Use These Tips with Care!
+	+ Different disciplines and documents require different kinds of reading.
+
+# Conversational Reading
+
+## A Book is Part of a Conversation ...
+
+* Between you and the author
+* Between the author and other authors
+* Between you, your professor, and your classmates
+
+## Your Goal as a Reader?
+
+* Enter the conversation
+* Place the book or article in its larger context
+* Assess the author's argument
+* ~~Memorize every detail~~ 
+
+# Pre-Reading
+
+## How to Skim
+
+* Collect information from all the book's titles
+* Read through once like a writer
+	+ Where do you put your main points when you write?
+	+ Look for main points *early* and *late* ...
+	+ In the book, in chapters, in sections, in paragraphs
+* Come back to difficult parts later
+
+---
+
+> *In tackling a difficult book for the first time, read it through without ever stopping to look up or ponder the things that you do not understand right away.* Pay attention to what you can understand and do not be stopped by what you cannot immediately grasp. Go right on reading past the point where you have difficulties in understanding, and you will soon come to things you do understand. Concentrate on these. Keep on in this way. Read the book through, undeterred and undismayed by the paragraphs, footnotes, comments, and references that escape you. If you let yourself get stalled, if you allow yourself to be tripped up by any one of these stumbling blocks, you are lost. In most cases, you will not be able to puzzle the thing out by sticking to it. You will have a much better chance of understanding it on a second reading, but that requires you to have read the book through at least once.
+
+From Mortimer Adler and Charles van Doren, *How to Read a Book*, 36-7.
+
+---
+
+# The point of skimming and pre-reading is to formulate questions and hypotheses about what the author will say.
+
+# The Slow Read
+
+## As you read ...
+
+* Be on the look-out for reasons and evidence
+* Ask yourself questions about the author's reasons
+* _Selectively_ annotate with marginal notes or high-lights
+* Pause at the end of each section to review and jot notes
+
+# The Post-Read
+
+## While reviewing your notes ...
+
+* Evaluate the author's claims
+* Prepare a few points you could make in class
+* See what other readers have said about the book
+	+ The library's [OneSearch tool](http://library.rice.edu/guide/onesearch.html/) often has links to reviews
+
+# Other tips?
+
+* <http://wcm1.web.rice.edu/howtoread.html>
+
