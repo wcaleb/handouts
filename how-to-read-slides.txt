@@ -2,7 +2,7 @@
 % Caleb McDaniel
 % August 26, 2012
 
-<!--This is a markdown slideshow that I made for a presentation at Duncan College on reading for college courses. It can be converted to a variety of slide formats using Pandoc. The slides are licensed under a Creative Commons CC-BY license. You can modify it, but please share and share alike, and provide attribution to this original.-->
+<!--This is a markdown slideshow that I made for a presentation at Duncan College on reading for college courses. It can be converted to a variety of slide formats using Pandoc. The slides are licensed under a Creative Commons CC-BY license. You can modify it, but please share and share alike, and provide attribution to this original. The source can be found at http://github.com/wcaleb/handouts.-->
 
 ## General Tips
 
