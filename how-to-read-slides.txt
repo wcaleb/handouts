@@ -20,12 +20,9 @@
 
 -   Use These Tips with Care!
     -   Different disciplines and documents require different kinds of
-        reading. <!--These are geared towards humanities classes-->
-
-# Speed Reading versus Smart Reading
-
-<iframe width="420" height="315" src="http://www.youtube.com/embed/cPOIZ6DGXWE"
-frameborder="0" allowfullscreen></iframe>
+        reading.
+		
+<!--These tips are geared particularly towards social sciences and humanities classes. Books assigned in these classes are usually trying to do more than just *convey information*. They are carrying on a conversation.-->
 
 # Conversational Reading
 
@@ -42,6 +39,15 @@ frameborder="0" allowfullscreen></iframe>
 -   Assess the author's argument
 -   ~~Memorize every detail~~
     <!--In most humanities and social science courses, the goal is not to memorize everything, but to know what's important in the context of the conversation.-->
+
+<!--Of course, another thing humanities and social science courses have in common is a heavy reading load. How can you cover all the pages required?-->
+
+# Speed Reading versus Smart Reading
+
+<iframe width="420" height="315" src="http://www.youtube.com/embed/cPOIZ6DGXWE"
+frameborder="0" allowfullscreen></iframe>
+
+<!--Speed reading assumes all words are equally important, and privileges rate: it's like assuming that the best way to drive is to go 80 mph all the time. Smart readers know that some parts of a book are more important than others and learn when to slow down and when to speed up.-->
 
 # Pre-Reading
 
@@ -76,6 +82,8 @@ From Mortimer Adler and Charles van Doren, *How to Read a Book*, 36-7.
 
 * * * * *
 
+<!--Getting bogged down in a difficult section, before you know that it's an important section, is sort of like rubbernecking on a freeway. It's slowing down not because of a *signpost* telling you to, but because you can't make sense of some wreck or confusion.-->
+
 # The point of skimming and pre-reading is to formulate questions and hypotheses about what the author will say.
 
 # The Slow Read
@@ -101,4 +109,5 @@ From Mortimer Adler and Charles van Doren, *How to Read a Book*, 36-7.
 # Other tips?
 
 -   <http://wcm1.web.rice.edu/howtoread.html>
+-	A link to this slideshow will be available there.
 
