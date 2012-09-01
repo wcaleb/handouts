@@ -47,7 +47,13 @@
 <iframe width="420" height="315" src="http://www.youtube.com/embed/cPOIZ6DGXWE"
 frameborder="0" allowfullscreen></iframe>
 
-<!--Speed reading assumes all words are equally important, and privileges rate: it's like assuming that the best way to drive is to go 80 mph all the time. Smart readers know that some parts of a book are more important than others and learn when to slow down and when to speed up.-->
+* Speed reading assumes all words are equally important, and privileges rate: it's like assuming that the best way to drive is to go 80 mph all the time.
+
+-----
+
+## Smart readers learn when to slow down and when to speed up by paying attention to signposts.
+
+![](/Users/wcm1/Desktop/School-Zone-Sign.jpg)
 
 # Pre-Reading
 
@@ -79,6 +85,9 @@ frameborder="0" allowfullscreen></iframe>
 > least once.
 
 From Mortimer Adler and Charles van Doren, *How to Read a Book*, 36-7.
+
+-	Consider: Are you slowing down because the author left you a signpost,
+	or because you are "rubbernecking" at something just because it's unusual?
 
 * * * * *
 
