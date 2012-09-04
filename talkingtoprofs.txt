@@ -1,0 +1,74 @@
+% How to Communicate with Professors
+% W. Caleb McDaniel
+% September 4, 2012
+
+<!--The first thing I want to do is stress that professors actually do *want* to communicate with you. That's one of the reasons they are in this business! The goal of this presentation is to demystify the process of communication and help you avoid some common mistakes that can make a bad first impression or lead to miscommunication. The goal is *not* to make you feel more intimidated.-->
+
+<center>
+
+# Professors Want to Talk!
+
+</center>
+
+# "I Just Went and Asked"
+
+> When an extraordinarily famous professor agreed to work with a friend of ours on her undergraduate thesis, we were shocked. “How did you get HIM?” we demanded. “I just went and asked,” she answered. “He says no one ever asks him to do anything anymore because he’s too famous, and he misses students.” A professor can’t work with every one who asks, but it’s certainly worth talking to someone whose work you admire.
+
+[Heather Cox Richardson][]
+
+*****
+
+![Your Lunchmate May Be a Nobel Laureate](http://wcm1.web.rice.edu/curl.jpg)
+
+via [David Leebron on Twitter][]
+
+# Professors are Normal People
+
+- The rules of communication that apply to them apply to others
+- Like normal people, first impressions can matter
+- They like to give advice when asked
+
+*****
+
+<script src="http://storify.com/wcaleb/communicating-with-professors.js"></script>
+
+# You Are Not Alone ...
+
+> Even for a professor with smaller classes, it's a drag to get an e-mail that merely says "I'm in your English class and need the assignment." All your English professor's classes are English classes; she or he still needs to know which one is yours. 
+> Consider, in light of this advice, the following examples:
+
+>> An e-mail from "qtpie2005" with the subject line "question."
+
+>> An e-mail from a university account with the subject line "question about English 2011 essay."
+
+> Which one looks legitimate? Which one looks like spam?
+
+[Michael Leddy, "How to E-Mail a Professor"][leddy]
+
+- Consider including your last name and first initial in any file attachment that you send to a professor. A folder full of files named "finalpaper.doc" is difficult to navigate.
+
+# Syllabi
+
+- Professors are [now required][ga] to give you a syllabus
+- A syllabus is the most important piece of communication from a professor. Read it with care!
+
+******
+
+![Kieran Healy, Duke University](http://p.twimg.com/A1Tekp6CcAAYl60.jpg)
+
+# Further Reading
+
+> - This slideshow: <http://wcm1.web.rice.edu/talkingtoprofs.html>
+> - The tweets: <http://storify.com/wcaleb/communicating-with-professors>
+> - [The Email Charter][charter]
+> - [18 Etiquette Tips for Emailing your Professor][usnews]
+> - [A Primer on Electronic Communication][hargittai] by Eszter Hargittai
+
+
+[Heather Cox Richardson]: http://histsociety.blogspot.com/2009/11/richardsons-rules-of-order-part-xi-note.html
+[David Leebron on Twitter]: https://twitter.com/davidleebron/status/237978834652258304
+[usnews]: http://www.usnews.com/education/blogs/professors-guide/2010/09/30/18-etiquette-tips-for-e-mailing-your-professor
+[ga]: http://ga.rice.edu/Home.aspx?id=2147484121
+[leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
+[charter]: http://emailcharter.org
+[hargittai]: http://www.insidehighered.com/advice/2006/11/28/hargittai
