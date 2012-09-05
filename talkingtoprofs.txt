@@ -54,7 +54,16 @@ via [David Leebron on Twitter][]
 
 ******
 
-![Kieran Healy, Duke University](http://p.twimg.com/A1Tekp6CcAAYl60.jpg)
+[![Kieran Healy, Duke University](http://p.twimg.com/A1Tekp6CcAAYl60.jpg)][healy]
+
+******
+
+# When in Doubt, Ask
+
+That is the best way to avoid confusion about what is expected of you---confusion that can sometimes lead to [serious consequences][nyt].
+
+![](./nyt-cheating.jpg)
+
 
 # Further Reading
 
@@ -64,11 +73,12 @@ via [David Leebron on Twitter][]
 > - [18 Etiquette Tips for Emailing your Professor][usnews]
 > - [A Primer on Electronic Communication][hargittai] by Eszter Hargittai
 
-
 [Heather Cox Richardson]: http://histsociety.blogspot.com/2009/11/richardsons-rules-of-order-part-xi-note.html
 [David Leebron on Twitter]: https://twitter.com/davidleebron/status/237978834652258304
+[healy]: https://twitter.com/kjhealy/status/240061401455030273/
 [usnews]: http://www.usnews.com/education/blogs/professors-guide/2010/09/30/18-etiquette-tips-for-e-mailing-your-professor
 [ga]: http://ga.rice.edu/Home.aspx?id=2147484121
 [leddy]: http://mleddy.blogspot.com/2005/01/how-to-e-mail-professor.html
 [charter]: http://emailcharter.org
 [hargittai]: http://www.insidehighered.com/advice/2006/11/28/hargittai
+[nyt]: http://www.nytimes.com/2012/09/01/education/students-of-harvard-cheating-scandal-say-group-work-was-accepted.html?_r=0
