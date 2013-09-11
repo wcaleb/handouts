@@ -1,6 +1,6 @@
 % How to Communicate with Professors
 % W. Caleb McDaniel
-% September 4, 2012
+% September 11, 2013
 
 <!--The first thing I want to do is stress that professors actually do *want* to communicate with you. That's one of the reasons they are in this business! The goal of this presentation is to demystify the process of communication and help you avoid some common mistakes that can make a bad first impression or lead to miscommunication. The goal is *not* to make you feel more intimidated.-->
 
@@ -10,11 +10,20 @@
 
 </center>
 
-# "I Just Went and Asked"
+*****
 
-> When an extraordinarily famous professor agreed to work with a friend of ours on her undergraduate thesis, we were shocked. “How did you get HIM?” we demanded. “I just went and asked,” she answered. “He says no one ever asks him to do anything anymore because he’s too famous, and he misses students.” A professor can’t work with every one who asks, but it’s certainly worth talking to someone whose work you admire.
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/wcaleb">@wcaleb</a> Professor passes on internship offers/job offers/awesome volunteer opportunities because he thinks I&#39;d be good at them</p>&mdash; Anya Bolshakova (@spynasty) <a href="https://twitter.com/spynasty/statuses/377508427066400768">September 10, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-[Heather Cox Richardson][]
+*****
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/wcaleb">@wcaleb</a> <a href="https://twitter.com/RiceAcademics">@RiceAcademics</a> I spent as much time on the bus and walking to and for with the late Atieno Odhiambo as I did in class.</p>&mdash; The Wilson House (@RiceWilsonHouse) <a href="https://twitter.com/RiceWilsonHouse/statuses/377520036833153024">September 10, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+*****
+
+<blockquote class="twitter-tweet"><p><a href="https://twitter.com/wcaleb">@wcaleb</a> Charlie Maier told the story of Jewish relatives RETURNING to Hitler&#39;s Germany. Made me realize that history is complicated!</p>&mdash; Heather C Richardson (@HC_Richardson) <a href="https://twitter.com/HC_Richardson/statuses/377496012543123456">September 10, 2013</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 *****
 
@@ -22,13 +31,23 @@
 
 via [David Leebron on Twitter][]
 
-# Professors are Normal People
-
-- The rules of communication that apply to them apply to others
-- Like normal people, first impressions can matter
-- They like to give advice when asked
-
 *****
+
+# "I Just Went and Asked"
+
+> When an extraordinarily famous professor agreed to work with a friend of ours on her undergraduate thesis, we were shocked. “How did you get HIM?” we demanded. “I just went and asked,” she answered. “He says no one ever asks him to do anything anymore because he’s too famous, and he misses students.” A professor can’t work with every one who asks, but it’s certainly worth talking to someone whose work you admire.
+
+[Heather Cox Richardson][]
+
+# Professors are (Mostly) Normal People
+
+- The rules of communication that apply to them apply to others.
+- Like normal people, first impressions can matter.
+- They like to give advice when asked.
+
+****
+
+[Storify](http://storify.com/wcaleb/communicating-with-professors) on communicating with professors:
 
 <script src="http://storify.com/wcaleb/communicating-with-professors.js"></script>
 
@@ -46,6 +65,7 @@ via [David Leebron on Twitter][]
 [Michael Leddy, "How to E-Mail a Professor"][leddy]
 
 - Consider including your last name and first initial in any file attachment that you send to a professor. A folder full of files named "finalpaper.doc" is difficult to navigate.
+- Consider saving documents in PDF or RTF, or including in body of email if short, to ensure compatibility.
 
 # Syllabi
 
@@ -64,14 +84,16 @@ That is the best way to avoid confusion about what is expected of you---confusio
 
 ![](./nyt-cheating.jpg)
 
-
 # Further Reading
 
 > - This slideshow: <http://wcm1.web.rice.edu/talkingtoprofs.html>
 > - The tweets: <http://storify.com/wcaleb/communicating-with-professors>
 > - [The Email Charter][charter]
 > - [18 Etiquette Tips for Emailing your Professor][usnews]
+> - [Email Etiquette for Students](http://owl.english.purdue.edu/owl/resource/694/1/)
 > - [A Primer on Electronic Communication][hargittai] by Eszter Hargittai
+> - [Six Things You Should Say to Your Professor](http://www.usatodayeducate.com/staging/index.php/campuslife/6-things-you-should-say-to-your-professor)
+> - [Stardate 2378: A Starfleet Captain Challenges a Final Grade](http://littleprofessor.typepad.com/the_little_professor/2009/11/from-2376-a-starfleet-captain-demonstrates-how-not-to-challenge-a-grade.html)
 
 [Heather Cox Richardson]: http://histsociety.blogspot.com/2009/11/richardsons-rules-of-order-part-xi-note.html
 [David Leebron on Twitter]: https://twitter.com/davidleebron/status/237978834652258304
